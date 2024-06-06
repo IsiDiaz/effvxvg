@@ -1,5 +1,5 @@
 :root {
-    color: black;
+    --fundo: black;
 }
 .entrada {
     background-image: url("FUNDO.png");
