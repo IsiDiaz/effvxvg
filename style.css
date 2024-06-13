@@ -21,12 +21,25 @@ body {
     font-family: jacquard-12-regular;
 
 }
-.main img {
-    
-}
 
 .main h1 {
     color: white;
     font-size: xxx-large;
 
+}
+
+.maintemperos {
+    width: 20%;
+}
+
+.mainfrutas {
+    width: 20%;
+}
+
+.mainfolhasverdes {
+    width: 20%;
+}
+
+.mainflores {
+    width: 20%;
 }
