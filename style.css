@@ -13,4 +13,6 @@
 body {
     background-color: black;
 }
-
+.main img {
+    align-self: center;
+}
