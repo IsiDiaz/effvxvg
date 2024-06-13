@@ -1,10 +1,15 @@
 :root {
     --fundo: black;
 }
+
 .entrada {
     background-image: url("FUNDO.png");
 }
 
 .barrainicial {
     width: 50%;
+}
+
+.body {
+    background: black;
 }
