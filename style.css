@@ -29,6 +29,10 @@ h1 {
     font-size: xxx-large;
 
 }
+.maintemperos {
+    display: flex;
+    align-items: center;
+}
 
 .maintemperos  img {
     width: 20%;
