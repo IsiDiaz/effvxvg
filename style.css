@@ -8,14 +8,13 @@
 .entrada {
     background-image: url("FUNDO.png");
 }
-.barrainicial a{
-    background-color: white
 
-}
 .barrainicial img {
     width: 30%;
 }
-
+.barrainicial {
+    display: flex;
+}
 body {
     background-color: black;
         font-family: "Tiny5", sans-serif;
