@@ -7,6 +7,7 @@
 
 .entrada {
     background-image: url("FUNDO.png");
+    width: -webkit-fill-available;
 }
 .barrainicial a {
     font-size: xxx-large;
