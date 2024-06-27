@@ -8,7 +8,10 @@
 .entrada {
     background-image: url("FUNDO.png");
 }
+.barrainicial a{
+    background-color: white
 
+}
 .barrainicial img {
     width: 30%;
 }
