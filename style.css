@@ -61,3 +61,10 @@ h1 {
     width: 15%;
 }
 
+.Creditos {
+    background-image: url(file\ \(1\)\ 1\ \(1\).png);
+}
+
+.Creditos h2 {
+    color: white;
+}
