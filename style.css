@@ -62,10 +62,9 @@ h1 {
 }
 
 .Creditos {
-    background-image: url(file\ \(1\)\ 1\ \(1\).png);
+    background-image: url(creditos.png);
 }
 
 .Creditos h2 {
     color: white;
-    background-image: url(file\ \(1\)\ 1\ \(1\).png);
 }
