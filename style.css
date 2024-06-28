@@ -95,3 +95,7 @@ h1 {
 .entrada img {
     width: -webkit-fill-available;
 }
+
+.Creditos image {
+    animation-range-start: 0;
+}
