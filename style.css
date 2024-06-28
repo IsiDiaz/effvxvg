@@ -76,13 +76,11 @@ h1 {
     margin: 0;
     font-size: 144px;
     text-align: center;
-    
-}
-
-.Creditos h2 {
     color: white;
     font-size: xx-large;
 }
+
+
 
 .molango img{
     display: flex;
