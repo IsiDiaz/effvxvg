@@ -97,5 +97,5 @@ h1 {
 }
 
 .Creditos image {
-    animation-range-start: 0;
+    animation: 3s ease-in 1s infinite reverse both running slidein;
 }
