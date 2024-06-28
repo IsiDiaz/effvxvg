@@ -70,7 +70,8 @@ h1 {
 }
 
 .Creditos {
-    background-image: url(creditos.png);
+    background-image: url(creditos.png)
+    
 }
 
 .Creditos h2 {
